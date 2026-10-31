@@ -1,0 +1,10 @@
+node_modules
+temp
+.env
+user_settings.json
+*.mp3
+*.ogg
+*.wav
+*.srt
+*.log
+.git
